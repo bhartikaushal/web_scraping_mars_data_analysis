@@ -50,9 +50,9 @@ Analyzing Mars weather data
 
     pressure: The atmospheric pressure at Curiosity's location.
    
-4 Examined and cast the data types to appropriate datetime, int, or float data types if necessary. 
+4.  Examined and cast the data types to appropriate datetime, int, or float data types if necessary. 
 
-5. Analyzed the dataset by using Pandas functions to answer the following questions:
+5.  Analyzed the dataset by using Pandas functions to answer the following questions:
    
    1. How many months exist on Mars?
   
@@ -64,5 +64,5 @@ Analyzing Mars weather data
   
    5. How many terrestrial (Earth) days exist in a Martian year?
   
-6. Exported the DataFrame to a CSV file.
+6.  Exported the DataFrame to a CSV file.
 
